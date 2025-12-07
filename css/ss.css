@@ -55,7 +55,7 @@ nav ul {
     padding: 0;
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 10px;
 }
 
 nav a {
@@ -306,7 +306,7 @@ footer {
     nav ul {
         flex-wrap: wrap;
         justify-content: center;
-        gap: 15px;
+        gap: 10px;
     }
 
     nav a {
