@@ -311,7 +311,6 @@ footer {
 
     nav a {
         font-size: 10px;
-        flex-wrap: wrap;
         display: block;
         padding: 3px 6px;
     }
