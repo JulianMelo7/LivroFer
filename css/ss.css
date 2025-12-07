@@ -304,13 +304,14 @@ footer {
 
     /* NAV — permite quebrar linha */
     nav ul {
-        flex-wrap: wrap;
+        
         justify-content: center;
-        gap: 10px;
+        gap: 5px;
     }
 
     nav a {
         font-size: 10px;
+        flex-wrap: wrap;
         display: block;
         padding: 3px 6px;
     }
